@@ -1,0 +1,10 @@
+Taller 1: Nota 3.6
+    * lineas 6, 11, 15, 18, 19, 20 sobran
+    * linea 15, genera error
+    * el grado debía ser inicializado
+    * Falta el comentario en linea
+
+Taller 2: Nota deben sustentar
+    * linea 9, no muestra el valor esperado. sobra
+    * desde la linea 10 hasta la 13, se repite la operacion
+    * punto 3, no se pide el radio
