@@ -5,12 +5,12 @@ Realizado por: Andres Revellon y Sofia Torres
 //Punto 1
 console.log("solución punto 1");
 var Lado= prompt ("Por favor ingrese los lados del cuadrado");
-var area= lado**2;
-console.log (areacuadrado);
-var volumencubo= Lado*Lado*lado;
-console.log (volumencubo);
+var area= Lado**2;
+// console.log (areacuadrado);
+// var volumencubo= Lado*Lado*lado;
+// console.log (volumencubo);
 var volumencubo= Lado**3;
-console.log (volumencubo);
+// console.log (volumencubo);
 console.log ("El area del cuadrado es"+ area + "y el volumen del cubo es"+ volumencubo);
 
 //Punto 2
@@ -25,9 +25,10 @@ console.log("El Area es de " + (base + altura));
 //Punto 3
 console.log("solucion punto 3");
 
-var radio;
-radio = Int(prompt("por Favor Ingrese El Radio") );
-console.log("El Area Del Circulo Es ", Math.PI * radio * radio)
+var diametro;
+radio = parseInt(prompt("por Favor Ingrese El diametro") );
+var radio = diametro/2;
+console.log("El Area Del Circulo Es ", Math.PI * radio**2);
 
 //Punto 4
 console.log("solucion punto 4");
