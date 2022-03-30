@@ -37,6 +37,7 @@ var materia = ["analisis","tecnologia","desarrollo"];
 console.log(materia);
 materia[2] = "BBDD";
 console.log(materia);
+materia.pop("BBDD")
 
 materia.unshift("introduccion");
 console.log(materia);
