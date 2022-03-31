@@ -11,8 +11,8 @@ Taller 2: Nota deben sustentar
 
 Taller 3: 4 y 4.2 en la nota de los talleres anteriores
 
-Arreglos (observaciones generales del documento): Nota 3.3
+Arreglos (observaciones generales del documento): Nota 2
     * Falta código explicado en clase
-    * línea 10, en un lugar que no debe. Indica distracción al copiar
+    * línea 10, en un lugar que no debe. Indica distracción en clase
     * Falta código en eliminar elemento
     * Pase a hablar con el profesor cuando lea esto.
